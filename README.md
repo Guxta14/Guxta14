@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guxta14
 - 👀 I’m interested in infomatics
-- 🌱 I’m currently learning php, javabasic
+- 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate  
 
 <!---
